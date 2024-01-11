@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="text-gray-400 bg-gray-900 body-font">
+    <div className="text-gray-400 bg-black body-font">
       <Navbar/>
       <About/>
       <Skills/>
